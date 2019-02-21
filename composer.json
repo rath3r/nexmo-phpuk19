@@ -1,0 +1,13 @@
+{
+    "name": "rath3r/nexmo-phpuk19",
+    "description": "Integration of Nexmo with PHPUK Schedule data.",
+    "authors": [
+        {
+            "name": "Thomas Meehan",
+            "email": "thom.meehan@gmail.com"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.6"
+    }
+}
