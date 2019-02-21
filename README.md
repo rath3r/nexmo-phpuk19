@@ -1,3 +1,3 @@
 # Nexmo Hackathon Competition
 
-Text a Nexmo provided number with the word now to see what is on.
+Will use the supplied api data to return if any talks are on at the phpconference uk 2019.
